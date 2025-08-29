@@ -1,2 +1,2 @@
-# Situa-o-de-aprendizado---SA
+# Situação de aprendizado-SA
 CRUD sobre exercito
